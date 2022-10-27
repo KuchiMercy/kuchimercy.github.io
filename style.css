@@ -1,0 +1,94 @@
+.page{
+    text-align: center;
+    background-color: white;
+    padding: 50px 200px;
+}
+
+#profile_img {
+    padding: 1px 10px;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+
+#slack{
+    font-size: 22px;
+}
+
+#twitter {
+    width: 75%;
+    height: 40px;
+    display: inline-block;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#btn_zuri{
+    width: 75%;
+    height: 40px;
+    display: inline-block;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#books {
+    width: 75%;
+    height: 40px;
+    display: inline-block;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+#book_python{
+    width: 75%;
+    height: 40px;
+    display: inline-block;
+    border: none;
+    padding: 10px 20px 1px 20px;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.text{
+    font-style: oblique;
+    line-height: 170%;
+    padding-left: 180px;
+    padding-right: 180px;
+}
+
+#pitch{
+    width: 75%;
+    height: 40px;
+    display: inline-block;
+    border: none;
+    padding: 10px 20px 1px 20px;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+#book_design{
+    width: 75%;
+    height: 40px;
+    display: inline-block;
+    border: none;
+    padding: 10px 20px 1px 20px;
+    margin: 5px 5px 20px 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+    
